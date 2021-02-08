@@ -1,0 +1,21 @@
+<!Doctype html>
+<html>
+<head>
+<title>Fiskuyy </title>
+<link rel "stylesheet"type="text/css"href="style.css">
+</head>
+<body>
+<header>
+<div class="main">
+<ul>
+<li><a href="g.html">Log out </li>
+<li><a href="uts.html"class="active">Beranda </li>
+<li><a href="b.html">Home </li>
+<li><a href="kontak saya.php">Kontak saya </li>
+<li><a href="Tentang.php">Tentang </li>
+</ul>
+</div>
+</header>
+<div class="title">
+<hi> Selamat Datang di Fiskuyy...</hi>
+</div>
